@@ -18,7 +18,7 @@ export const Header: React.FC = () => {
               <h1 className="text-3xl font-bold bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
                 Sales Insights Dashboard
               </h1>
-              <p className="text-slate-400 text-sm mt-1">Panel de métricas en tiempo real</p>
+              <p className="text-slate-400 text-sm mt-1">Panel de métricas</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
